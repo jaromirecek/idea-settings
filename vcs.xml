@@ -46,9 +46,13 @@
           <option name="url" value="ssh://git@codebase.plus4u.net:9422/usy_uopg01-source.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/bubblefoil/p4u-worklogger" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/work/unicorn/fbl/repsitory" />
+    <option name="cloneParentDir" value="$USER_HOME$/work/unicorn/work-logger" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="MIGRATED" value="true" />
