@@ -66,6 +66,10 @@
           <option name="url" value="ssh://git@codebase.plus4u.net:9422/usy_fblg01-templates.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@codebase.plus4u.net:9422/usy_fblg01-installer.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/work/unicorn/fbl/repsitory" />
