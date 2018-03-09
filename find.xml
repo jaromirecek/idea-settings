@@ -32,10 +32,10 @@
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
-      <mask>*.java</mask>
       <mask>pom.xml</mask>
       <mask>*.xml</mask>
       <mask>pro*.xml</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
