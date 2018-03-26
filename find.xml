@@ -3,8 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xsd" />
     <recentFileMasks>
-      <mask>*java</mask>
       <mask>*.p</mask>
       <mask>*.pom</mask>
       <mask>*.po</mask>
@@ -34,6 +34,7 @@
       <mask>*.xml</mask>
       <mask>pro*.xml</mask>
       <mask>*.java</mask>
+      <mask>*.xsd</mask>
     </recentFileMasks>
   </component>
 </application>
