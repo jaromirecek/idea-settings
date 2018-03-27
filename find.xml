@@ -3,9 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xsd" />
+    <option name="FILE_MASK" value="idcc-chan*.xml" />
     <recentFileMasks>
-      <mask>*.p</mask>
       <mask>*.pom</mask>
       <mask>*.po</mask>
       <mask>*.js</mask>
@@ -35,6 +34,7 @@
       <mask>pro*.xml</mask>
       <mask>*.java</mask>
       <mask>*.xsd</mask>
+      <mask>idcc-chan*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
