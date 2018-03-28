@@ -3,38 +3,5 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="idcc-chan*.xml" />
-    <recentFileMasks>
-      <mask>*.pom</mask>
-      <mask>*.po</mask>
-      <mask>*.js</mask>
-      <mask>*.x</mask>
-      <mask>*.xh</mask>
-      <mask>*.xht</mask>
-      <mask>*.xhtm</mask>
-      <mask>*.xhtml</mask>
-      <mask>p</mask>
-      <mask>po</mask>
-      <mask>pom</mask>
-      <mask>pom.</mask>
-      <mask>pom.x</mask>
-      <mask>pom.xm</mask>
-      <mask>java.</mask>
-      <mask>java</mask>
-      <mask>jav</mask>
-      <mask>ja</mask>
-      <mask>j</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.jav</mask>
-      <mask>pom.xml</mask>
-      <mask>*.xml</mask>
-      <mask>pro*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.xsd</mask>
-      <mask>idcc-chan*.xml</mask>
-    </recentFileMasks>
   </component>
 </application>
