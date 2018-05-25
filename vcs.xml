@@ -78,9 +78,13 @@
           <option name="url" value="https://github.com/jaromirecek/springboot-angular-sample.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/olivergierke/sos" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/work/unicorn/fbl/repsitory" />
+    <option name="cloneParentDir" value="$USER_HOME$/work" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
