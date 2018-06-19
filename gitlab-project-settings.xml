@@ -2,5 +2,27 @@
   <component name="SettingsState">
     <option name="host" value="http://gitlab.usyuop.eu:10080/" />
     <option name="token" value="KW2_zWAEN7_yrndzLQGs" />
+    <option name="projects">
+      <list>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.usyuop.eu:10080/fbcs/fbl1.git" />
+          <option name="name" value="fbl1" />
+          <option name="namespace" value="fbcs" />
+          <option name="sshUrl" value="ssh://git@gitlab.usyuop.eu:10022/fbcs/fbl1.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.usyuop.eu:10080/fbcs/idea-settings.git" />
+          <option name="name" value="idea-settings" />
+          <option name="namespace" value="fbcs" />
+          <option name="sshUrl" value="ssh://git@gitlab.usyuop.eu:10022/fbcs/idea-settings.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.usyuop.eu:10080/nbs/basse-messaging-service.git" />
+          <option name="name" value="basse-messaging-service" />
+          <option name="namespace" value="nbs" />
+          <option name="sshUrl" value="ssh://git@gitlab.usyuop.eu:10022/nbs/basse-messaging-service.git" />
+        </ProjectDto>
+      </list>
+    </option>
   </component>
 </application>
