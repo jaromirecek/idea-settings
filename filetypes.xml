@@ -1,8 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="php" type="PHP" />
       <mapping ext="tlog" type="PLAIN_TEXT" />
+      <mapping ext="file" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
