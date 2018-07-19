@@ -92,7 +92,7 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/work/unicorn/fbl" />
+    <option name="cloneParentDir" value="$USER_HOME$/work/unicorn/fbl/repsitory" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
