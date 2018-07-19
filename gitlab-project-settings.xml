@@ -5,6 +5,12 @@
     <option name="projects">
       <list>
         <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.usyuop.eu:10080/fbcs/deployment-tools.git" />
+          <option name="name" value="deployment-tools" />
+          <option name="namespace" value="fbcs" />
+          <option name="sshUrl" value="ssh://git@gitlab.usyuop.eu:10022/fbcs/deployment-tools.git" />
+        </ProjectDto>
+        <ProjectDto>
           <option name="httpUrl" value="http://gitlab.usyuop.eu:10080/fbcs/fbl1.git" />
           <option name="name" value="fbl1" />
           <option name="namespace" value="fbcs" />
