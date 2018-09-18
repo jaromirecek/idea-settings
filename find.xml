@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.xhtml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -19,8 +20,8 @@
     <mask>*.xsd</mask>
     <mask>*.xml</mask>
     <mask>processdefinition.xml</mask>
+    <mask>pom.xml</mask>
     <mask>*.java</mask>
     <mask>*.xhtml</mask>
-    <mask>pom.xml</mask>
   </component>
 </application>
