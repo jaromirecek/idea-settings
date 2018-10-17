@@ -1,8 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.xsd" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -12,11 +15,11 @@
     <mask>*.mxml</mask>
     <mask>package.json</mask>
     <mask>lo*.xml</mask>
-    <mask>*.xsd</mask>
     <mask>processdefinition.xml</mask>
     <mask>*.xhtml</mask>
     <mask>pom.xml</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.xsd</mask>
   </component>
 </application>
