@@ -4,7 +4,7 @@
       <list>
         <UrlAndUserName>
           <option name="url" value="http://gitlab.usyuop.eu:10080" />
-          <option name="userName" value="jaromir.juren@unicornsystems.eu" />
+          <option name="userName" value="jaromir.juren" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://gitlab.usyuop.eu:10080/fbcs/fbl1.git" />
