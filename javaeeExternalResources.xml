@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://activemq.apache.org/schema/core" location="$USER_HOME$/.IntelliJIdea2018.3/system/extResources/356fee2_activemq-core.xsd" />
+  </component>
+</application>
