@@ -106,6 +106,10 @@
           <option name="url" value="ssh://git@codebase.plus4u.net:9422/uu_plus4ufairpay_maing03.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://5-828-1@codebase.plus4u.net:9422/grr_crazymonstersg01.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/work/unicorn/necs/repository" />
