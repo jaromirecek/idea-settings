@@ -126,9 +126,13 @@
           <option name="url" value="http://gitlab.usyuop.eu:10080/necs/performance-test.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@codebase.plus4u.net:9422/uu_jokesg01-nodejs.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/work/unicorn/necs/repository" />
+    <option name="cloneParentDir" value="$USER_HOME$/work/unicorn/Školení UAF NodeJs" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
